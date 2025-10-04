@@ -1,1 +1,7 @@
 venv
+.DS_Store
+__pycache__/
+db.sqlite3
+/static_in_env
+/media
+/media_root
